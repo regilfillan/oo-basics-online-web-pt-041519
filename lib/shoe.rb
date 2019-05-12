@@ -5,5 +5,6 @@ class Shoe
   @brand= brand_of_shoe
   end
   def cobble
+    puts "Your shoe is as good as new!"
   end
 end
